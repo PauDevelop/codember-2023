@@ -8,4 +8,3 @@ function patronMensajes(mensaje) {
 
     return result
 }
-
