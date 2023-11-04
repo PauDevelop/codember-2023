@@ -2,7 +2,7 @@
 
 Retos de Codember 2023 (Plataforma de retos de programación de @midudev)
 
-## Añáde tus propias soluciones. Cómo participar?
+## Añade tus propias soluciones. Cómo participar?
 
 1. Haz un **FORK** del repositorio.
 2. Crea una carpeta con el nombre del lenguaje dentro de la carpeta del reto correspondiente.
