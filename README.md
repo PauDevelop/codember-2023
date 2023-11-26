@@ -8,6 +8,6 @@ https://codember.dev/
 1. Haz un **FORK** del repositorio.
 2. Crea una carpeta con el nombre del lenguaje dentro de la carpeta del reto correspondiente.
 3. Si la carpeta ya existe, únicamente crea un fichero en ella. El fichero ha de tener como nombre tu username de Github.
-4. Crea una **PULL REQUEST** al repopsitorio.
+4. Crea una **PULL REQUEST** al repositorio.
 
 Gracias por participar, se agradece feedback!
